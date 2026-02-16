@@ -45,6 +45,18 @@ body {
     background: linear-gradient(45deg, #217336, #91A092);
     color: whitesmoke;
 }
+/* Flag for sections of hub that are under construction */
+.flag { 
+    background: linear-gradient(45deg, gold, black, gold, black);
+    color: rgb(255, 255, 255);
+    padding: 5px;
+    width: 100%;
+    text-align: center;
+    font-weight: bold;
+    text-shadow: 0px 3px 3px black;
+    border-top: 2px solid white;
+    border-bottom: 2px solid white;
+}
 /* Footer Styles */
 footer { 
     text-align: center;
