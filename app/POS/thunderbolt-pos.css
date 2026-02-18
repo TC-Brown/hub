@@ -34,12 +34,13 @@ header h1 {
     height: 100%;
     max-height: 100%;
 }
-/*----- Order -----*/
+/*---------- Order -----------*/
 .order {
     background-color: white;
     flex: 0 0 440px;
     overflow: auto;
 }
+
 .receipt { 
     border: solid .5px;
     margin: 10px 15px 5px 15px;
@@ -47,14 +48,17 @@ header h1 {
     user-select: none;
     flex-grow: 1;
 }
+
 .receipt, 
 .company-info,
 .receipt-footer {
     align-items: center;
 }
+
 .company-info { 
     margin-top: 5px;
 }
+
 #company-name {
     font-size: 1.5rem;
 }
@@ -120,4 +124,23 @@ tbody.summary-table td:nth-child(3){
 .toolbar-icon { 
     font-size: 2rem;
 }
-/* Stop: 53:21:00 - Create POS Web-app */ 
+.toolbar-icon:hover { 
+    background-color: green;
+    color: white;
+}
+.toolbar-icon:nth-child(2):hover {
+    background-color: darkblue;
+    color: white;
+}
+.toolbar-icon:nth-child(3):hover { 
+    background-color: red;
+    color: white;
+}
+img { 
+    width: 150px;
+    
+}
+/*----------Menu Payment ----------*/
+
+
+/* Stop: 58:09:00 - Create POS Web-app */  
