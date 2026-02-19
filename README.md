@@ -3,24 +3,11 @@
 # 1. Update (names for files for hub in accordance with the name of the app to make it easier to find file for each app)
 # 2. Added folders to the site structure for hub expantion.
 # 3. JavaScript updated for functionality (the buttons are disabled until ready for testing).
-# 4.
+# 4. Thunderbolt POS updated for functionality (the buttons are disabled until ready for testing).
 # 5.
 # 6.
 # 7.
 # 8.
 # 9.
 # 10.
-
-# -- Notes for future updates --
-# 1.
-# 2.
-# 3.
-# 4.
-# 5.
-# 6.
-# 7.
-# 8.
-# 9.
-# 10.
-
 # -- Developed by T.C. Brown | 2026 --
